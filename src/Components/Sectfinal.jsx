@@ -9,16 +9,20 @@ import { Finalimg } from "./Finalimg";
 export const Sectfinal = () =>{
     const lastpicture=[
         {
-            imgUrl: bottles
+            imgUrl: bottles,
+            alt:"it3"
         },
         {
-            imgUrl: orange
+            imgUrl: orange,
+            alt:"it4"
         },
         {
-            imgUrl: cornet
+            imgUrl: cornet,
+            alt:"it5"
         },
         {
-            imgUrl: sugar
+            imgUrl: sugar,
+            alt:"it6"
         },
     ]
 
